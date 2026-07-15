@@ -44,11 +44,6 @@ This project was developed as **Project 1** during my Artificial Intelligence In
 ```bash
 python chatbot.py
 ```
-
-*(Replace `chatbot.py` with your actual Python file name if it is different.)*
-
----
-
 ## 📂 Project Structure
 
 ```
